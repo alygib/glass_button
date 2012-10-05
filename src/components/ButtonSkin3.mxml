@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<s:Skin xmlns:s="library://ns.adobe.com/flex/spark"
+		xmlns:fx="http://ns.adobe.com/mxml/2009"
+		xmlns:ai="http://ns.adobe.com/ai/2009"
+		width="84" height="84">
+	<fx:Metadata>[HostComponent("spark.components.Button")]</fx:Metadata>
+	<s:states>
+		<s:State name="up"/>
+		<s:State name="over"/>
+		<s:State name="down"/>
+		<s:State name="disabled"/>
+	</s:states>
+	<s:Group x="0" y="0" blendMode="normal">
+		<s:BitmapImage x="0" y="0" source="@Embed('/assets/images/glass_button/Image_0002.png')" ai:embed="1" smooth="true"/>
+		<s:Ellipse x="10" y="5" blendMode="screen" width="64" height="46">
+			<s:fill>
+				<s:LinearGradient x="31.8262" y="5.32666" scaleX="55.6871" rotation="90">
+					<s:GradientEntry ratio="0" color="#FFFFFF"/>
+					<s:GradientEntry ratio="1"/>
+				</s:LinearGradient>
+			</s:fill>
+		</s:Ellipse>
+	</s:Group>
+</s:Skin>

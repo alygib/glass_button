@@ -1,0 +1,32 @@
+<s:Group xmlns:s="library://ns.adobe.com/flex/spark"
+		 xmlns:fx="http://ns.adobe.com/mxml/2009"
+		 xmlns:ai="http://ns.adobe.com/ai/2009"
+		 xmlns:d="http://ns.adobe.com/fxg/2008/dt"
+		 xmlns:flm="http://ns.adobe.com/flame/2008">
+	<!-- This file contains metadata shared between Flash Catalyst and Flash Builder. It does not affect your compiled application. -->
+	<fx:Private>
+		<ai:PrivateElement d:ref="#1">
+			<ai:SaveOptions>
+				<ai:Dict data="B includeObjectOutsideArtboard 0 B writeImages 1 B aiEditCap 1 B includeXMP 0 B includeSymbol 0 I versionKey 2 I preserveTextPolicy 4 I preserveGradientPolicy 4 I preserveFilterPolicy 3 I expandBlendsOption 4 B downsampleLinkedImages 1 I rasterizeResolution 72 "/>
+			</ai:SaveOptions>
+			<ai:DocData base="glass_button.assets/images" globalOffsetV="792" rulerCanvasDiffH="306.5" rulerCanvasDiffV="-395.5">
+				<ai:DocRasterSettings>
+					<ai:Dict data="B spot 1 B alis 1 R padd 36 B mask 0 I dpi. 72 I colr 5 "/>
+				</ai:DocRasterSettings>
+			</ai:DocData>
+			<ai:AutoGenImageList>
+				<ai:Dict>
+					<ai:Entry name="2" value="Image_0003.png" valueType="U"/>
+					<ai:Entry name="0" value="Image_0001.png" valueType="U"/>
+					<ai:Entry name="1" value="Image_0002.png" valueType="U"/>
+				</ai:Dict>
+			</ai:AutoGenImageList>
+		</ai:PrivateElement>
+		<ai:PrivateElement flm:hashcode="06FCE05FDA7A23786FB91EDCBF348F7D" d:ref="#2">
+			<ai:LayerOptions color="5 79.31 257 128.502"/>
+		</ai:PrivateElement>
+		<d:FontMap>
+			<d:Map fontFamily="Arial" postScriptName="ArialMT"/>
+		</d:FontMap>
+	</fx:Private>
+</s:Group>

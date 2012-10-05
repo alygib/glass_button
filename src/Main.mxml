@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<s:Application xmlns:ATE="http://ns.adobe.com/ate/2009"
+			   xmlns:ai="http://ns.adobe.com/ai/2009"
+			   xmlns:fc="http://ns.adobe.com/flashcatalyst/2009"
+			   xmlns:d="http://ns.adobe.com/fxg/2008/dt"
+			   xmlns:fx="http://ns.adobe.com/mxml/2009"
+			   xmlns:s="library://ns.adobe.com/flex/spark"
+			   xmlns:lib="assets.graphics.glass_button.*"
+			   xmlns:flm="http://ns.adobe.com/flame/2008"
+			   width="100%" height="100%" backgroundColor="#FFFFFF" preloaderChromeColor="#FFFFFF"
+			   fc:previewHeight="792" fc:previewWidth="612">
+	<fx:DesignLayer d:id="2" d:userLabel="Layer 1">
+		<s:Button x="312" y="211" skinClass="components.ButtonSkin2"/>
+		<s:Button x="443" y="211" skinClass="components.ButtonSkin3"/>
+		<s:Button x="188" y="211" skinClass="components.ButtonSkin1"/>
+		<s:Rect x="70" y="503" width="210" height="84"/>
+		<s:RichText x="206" y="247" color="#464646" fontFamily="Arial" fontSize="12"
+					tabStops="S0 S50" text="  BLUE"/>
+		<s:RichText x="334" y="246" color="#464646" fontFamily="Arial" fontSize="12"
+					tabStops="S0 S50" text="  "/>
+		<s:RichText x="458" y="246" color="#464646" fontFamily="Arial" fontSize="12"
+					tabStops="S0 S50" text="  GREEN"/>
+		<s:RichText x="335" y="246" color="#464646" fontFamily="Arial" fontSize="12"
+					tabStops="S0 S50" text="  RED"/>
+	</fx:DesignLayer>
+</s:Application>
